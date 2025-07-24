@@ -1,0 +1,13 @@
+{
+    "batch_size": 8,
+    "epochs": 5,
+    "lr": 0.0001,
+    "image_size": 256,
+    "num_classes": 80,
+    "train_dir": "data/train2017",
+    "train_ann": "data/annotations/instances_train2017.json",
+    "val_dir": "data/val2017",
+    "val_ann": "data/annotations/instances_val2017.json",
+    "save_path": "unet_model.pth",
+    "device": "cuda"
+}

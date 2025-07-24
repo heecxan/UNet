@@ -1,0 +1,9 @@
+data/  
+runs/  
+__pycache__/  
+*/__pycache__/  
+*.pyc  
+*.pyo  
+.DS_Store  
+.vscode/ 
+unet_model.pth 
